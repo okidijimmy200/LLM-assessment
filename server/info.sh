@@ -1,0 +1,1 @@
+export DEEPINFRA_API_TOKEN='rGWKD2yFPolltjMxnsw4ZnmdtyMhTmiU'

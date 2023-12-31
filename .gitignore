@@ -1,0 +1,5 @@
+.history
+__pycache__
+server/documents/text_segments.csv
+server/storage/db_faiss
+node_modules
