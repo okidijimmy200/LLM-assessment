@@ -1,1 +1,1 @@
-export DEEPINFRA_API_TOKEN='rGWKD2yFPolltjMxnsw4ZnmdtyMhTmiU'
+export DEEPINFRA_API_TOKEN='hn5Z3wLFXhGkzahtnAQLJsrWHvZEXTXk'
